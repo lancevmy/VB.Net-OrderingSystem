@@ -1,0 +1,7 @@
+D:\VB NET prods\Yaneza, Lance Vincent M_OrderingSystem\Yaneza, Lance Vincent M_OrderingSystem\obj\Debug\net10.0-windows\Yaneza__Lance_Vincent_M_OrderingSystem.Form1.resources
+D:\VB NET prods\Yaneza, Lance Vincent M_OrderingSystem\Yaneza, Lance Vincent M_OrderingSystem\obj\Debug\net10.0-windows\Yaneza__Lance_Vincent_M_OrderingSystem.Resources.resources
+D:\VB NET prods\Yaneza, Lance Vincent M_OrderingSystem\Yaneza, Lance Vincent M_OrderingSystem\obj\Debug\net10.0-windows\Yaneza, Lance Vincent M_OrderingSystem.vbproj.GenerateResource.cache
+D:\VB NET prods\Yaneza, Lance Vincent M_OrderingSystem\Yaneza, Lance Vincent M_OrderingSystem\obj\Debug\net10.0-windows\Yaneza, Lance Vincent M_OrderingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\VB NET prods\Yaneza, Lance Vincent M_OrderingSystem\Yaneza, Lance Vincent M_OrderingSystem\obj\Debug\net10.0-windows\Yaneza, Lance Vincent M_OrderingSystem.AssemblyInfoInputs.cache
+D:\VB NET prods\Yaneza, Lance Vincent M_OrderingSystem\Yaneza, Lance Vincent M_OrderingSystem\obj\Debug\net10.0-windows\Yaneza, Lance Vincent M_OrderingSystem.AssemblyInfo.vb
+D:\VB NET prods\Yaneza, Lance Vincent M_OrderingSystem\Yaneza, Lance Vincent M_OrderingSystem\obj\Debug\net10.0-windows\Yaneza, Lance Vincent M_OrderingSystem.vbproj.CoreCompileInputs.cache
